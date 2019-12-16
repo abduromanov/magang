@@ -1,0 +1,29 @@
+.iw-desa td {
+	padding: 3px 5px 3px 5px;
+	vertical-align: top;
+}
+
+.iw-title {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.iw-subtitle {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.iw-number {
+	text-align: right;
+}
+
+.iw-tabtitle {
+	font-weight: bold;	
+}
+
+.iw-note {
+ 	font-style: italic;
+ 	font-weight: bold; 	
+ 	font-size: 12px;
+ 	color: #4e4e4e;
+ }
